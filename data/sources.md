@@ -17,3 +17,9 @@
 - `مبتعثين الكويت` · `المبتعثين الكويتيين` · `@mohe_kw البعثة`
 - `Kuwait scholarship revoked` · `Kuwaiti students scholarship`
 - Add any hashtags students are using here once found.
+
+## Citizenship-revocation angle
+- Queries (AR): `سحب الجنسية البعثة` · `المسحوبة جنسياتهم المبتعثين` · `المادة 8 سحب الجنسية الطلبة` · `Article 17 وثيقة سفر طلبة`
+- Queries (EN): `Kuwait citizenship revoked students scholarship`
+- Outlets: Gulf News, The National, The New Arab, Daraj, Al-Jarida, SALAM DHR report https://salam-dhr.org/wp-content/uploads/2025/07/Kuwait-Revocation-of-nationality-statelessness.pdf
+- Reddit: r/Kuwait, r/Kuwaitis — NOT reachable by search/fetch from the environment (blocked). Paste threads manually.
